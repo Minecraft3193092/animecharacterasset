@@ -1,2 +1,1 @@
-This repo is public domain and The following accidents :
-"anime/smallpixel/" is oringally made in "River City Girls","anime/anime-big/" is oringally made in Dengeki Bunko Fighting Climax Ignition, some graphics edited by me and license is "CC0" (Creative Commons 0)
+This work is public domain-compatible, and you can copy, modify, publish, display, etc. this work, and you can also use it commercially without restrictions and licenses.
