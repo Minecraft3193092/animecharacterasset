@@ -1,6 +1,6 @@
 road : 1m a tiny road | 2m a small road | 3m a medium road | 6m a big road
-room : normal 3m, big 4m | prison cell 2m (or 3m) | size 1:1, 1:2, 1:3, 2:3, 1:4, 2:4, 3:4
-wall : inside 0.1m (big is 0.15m), outside 0.2m (big is 0.4m)
+room : normal 3m, big 4m, huge 8m | prison cell 2m (or 3m) | size 1:1, 1:2, 1:3, 2:3, 1:4, 2:4, 3:4
+wall : inside 0.1m (big is 0.15m), outside 0.2m (big is 0.4m) | outside medium 1m, big 2m, huge 4m
 map : 1m = 2 pixels, 0.5m = 1 pixel
 material : cotton, plastic, wood, stone, copper, gold, iron, steel, diamond
 can put people size (per person) : normal room 3 (4) ~ 4 (6), prison cell 2 ~ 5
