@@ -1,0 +1,62 @@
+miTEREBI
+desc : prototype is real world's myTVSuper, this platform isn't a official myTVSuper (or TVB) platform
+any real world thing in the list should is unofficial 惡搞 (prank) or remix etx
+
+
+= channel list
+- フレー・チャンエル
+1 | SUUPAA FUREE
+2 | アワード・チャンネル
+3 | miTEBERI Network (mTN)
+4 | Vote-chan and Request-chan Channel
+8 | ジョーングォー・テンイン
+10 | NTB プルーズ (Nippon Terebi Broadcast PLUS)
+13 | SUUPAA煲劇
+9999 | てすとチャンネル (TEST)
+
+
+- 基本頻道
+1 | SUUPAA FUREE (F)
+2 | アワード・チャンネル (F)
+3 | miTEBERI Network (mTN) (F)
+4 | Vote-chan and Request-chan Channel (F)
+8 | ジョーングォー・テンイン (F)
+9 | ドラえもんアニメ
+10 | NTB プルーズ (Nippon Terebi Broadcast PLUS) (F)
+13 | SUUPAA煲劇 (F)
+28 | WITCH WATCHアニメ (12+)
+29 | ミルモでポンアニメ
+30 | ＴＯ-ＬＯＶＥ-るアニメ (15+)
+152 | Manddi Anime Channel
+153 | Animakkusu
+# "(F)" is free channel
+
+= VOD program list
+ = Animax
+ # 關於我在無意間被隔壁的天使變成廢柴這件事 - 2023 ❤️❤️❤️❤️❤️
+ 久保同學不放過我 - 2023 ❤️❤️❤️❤️
+...
+ = Ani-One
+# 不時輕聲地以俄語遮羞的鄰座艾莉同學 - 2024 ⭐⭐⭐⭐⭐
+...
+ = Other Anime Licensors
+ WITCH WATCH
+ＴＯ-ＬＯＶＥ-る
+Motto ＴＯ-ＬＯＶＥ-る
+ＴＯ-ＬＯＶＥ-る  Darkness (15+)
+ＴＯ-ＬＯＶＥ-る  Darkness 2nd (15+)
+...
+= Vote-chan
+vote#385 - Add Taippon Area Support
+Y | 1200
+N | 548
+vote#321 - Add new Anime - 2026/02
+the most voted 2 future animes will enter the VOD program list
+關於我在無意間被隔壁的天使變成廢柴這件事 S2 | 9255
+不時輕聲地以俄語遮羞的鄰座艾莉同學 S2 | 8211
+...
+= Request-chan
+- Taiwanfans9999 : how Jonwa Tenshin MOD is support Taippon (Tapan) and Honihon and Macapan, how you is not support the Taippon area?
+ - Myterebi-pana (staff) : have many people says the Taippon area とらぶる, enter vote#385 to vote in
+- Animelover888 : please add Mahiru and Alya to Ani-One area!!!
+ - MTR-suha (staff) : Anime add votes in here vote#321
