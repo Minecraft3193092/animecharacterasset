@@ -1,6 +1,6 @@
 miTEREBI
 desc : prototype is real world's myTVSuper, this platform isn't a official myTVSuper (or TVB) platform
-any real world thing in the list should is unofficial 惡搞 (prank) or remix etx
+any real world thing in the list should is unofficial 惡搞 (prank) or remix etc and the NTB (Nippon Terebi Broadcast PLUS)'s prototype is TVB
 
 
 = channel list
@@ -11,7 +11,13 @@ any real world thing in the list should is unofficial 惡搞 (prank) or remix et
 4 | Vote-chan and Request-chan Channel
 8 | ジョーングォー・テンイン
 10 | NTB プルーズ (Nippon Terebi Broadcast PLUS)
+11 | NTB キドス (F)
+12 | NTB Ch2 (F)
 13 | SUUPAA煲劇
+155 | KkST (Koukyou Service Terebi) (F)
+156 | KkST 2 (F)
+157 | KkST 3 (F)
+159 | KkST Kids (F)
 9999 | てすとチャンネル (TEST)
 
 
@@ -23,12 +29,34 @@ any real world thing in the list should is unofficial 惡搞 (prank) or remix et
 8 | ジョーングォー・テンイン (F)
 9 | ドラえもんアニメ
 10 | NTB プルーズ (Nippon Terebi Broadcast PLUS) (F)
+11 | NTB キドス (F)
+12 | NTB Ch2 (F)
 13 | SUUPAA煲劇 (F)
 28 | WITCH WATCHアニメ (12+)
 29 | ミルモでポンアニメ
 30 | ＴＯ-ＬＯＶＥ-るアニメ (15+)
 152 | Manddi Anime Channel
 153 | Animakkusu
+155 | KkST (Koukyou Service Terebi) (F)
+156 | KkST 2 (F)
+157 | KkST 3 (F)
+158 | BFTC (Broadcast Film Terebi Channel)
+159 | Filmakkusu
+160 | Filmakkusu Ch2
+158 | BFTC (Broadcast Film Terebi Channel) Ch2
+159 | KkST Kids (F)
+161 | Kyakkya Channel
+162 | Kyakkya Movie
+163 | Kyakkya Ch2
+165 | Pupu Media Terebi (PMT)
+166 | PMT Ch2
+167 | PMT Ch3
+169 | PMT Movie
+181 | Kyakkya News
+182 | PMT News
+211 | Rocket Real Terebi Channel (RRTC)
+212 | RRTC Anime
+213 | RRTC Plus
 # "(F)" is free channel
 
 = VOD program list
@@ -60,3 +88,10 @@ the most voted 2 future animes will enter the VOD program list
  - Myterebi-pana (staff) : have many people says the Taippon area とらぶる, enter vote#385 to vote in
 - Animelover888 : please add Mahiru and Alya to Ani-One area!!!
  - MTR-suha (staff) : Anime add votes in here vote#321
+= Announces
+ - 2026/1/1 | New Year, and motto item
+  - Today is 2026's first day, the new thing
+ - 2025/12/18 | miTEREBI is random prizes to random 10 commenter
+  - Oo mi goodo, the prizes' are a space asteroid and a -6.66K gold and a mug can summon creature etc and is mark "#RandomPrize" in the community or the announce's comment area to join the event
+ - 2025/12/16 | New Anime
+  - Add Nisekoi S1 and Nisekoi S2, these are "Add new Anime - 2026/01"'s two winners
