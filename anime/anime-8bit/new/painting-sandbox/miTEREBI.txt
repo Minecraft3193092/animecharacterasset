@@ -1,5 +1,5 @@
 miTEREBI
-desc : prototype is real world's myTVSuper, this platform isn't a official myTVSuper (or TVB) platform
+desc : prototype is real world's myTV Super, this platform isn't a official myTV Super (or TVB) platform
 any real world thing in the list should is unofficial 惡搞 (prank) or remix etc and the NTB (Nippon Terebi Broadcast PLUS)'s prototype is TVB
 
 
@@ -63,6 +63,8 @@ any real world thing in the list should is unofficial 惡搞 (prank) or remix et
  = Animax
  # 關於我在無意間被隔壁的天使變成廢柴這件事 - 2023 ❤️❤️❤️❤️❤️
  久保同學不放過我 - 2023 ❤️❤️❤️❤️
+  久保同學不放過我 S2 - 2026
+  噬血狂襲 FINAL - 2022
 ...
  = Ani-One
 # 不時輕聲地以俄語遮羞的鄰座艾莉同學 - 2024 ⭐⭐⭐⭐⭐
@@ -95,3 +97,5 @@ the most voted 2 future animes will enter the VOD program list
   - Oo mi goodo, the prizes' are a space asteroid and a -6.66K gold and a mug can summon creature etc and is mark "#RandomPrize" in the community or the announce's comment area to join the event
  - 2025/12/16 | New Anime
   - Add Nisekoi S1 and Nisekoi S2, these are "Add new Anime - 2026/01"'s two winners
+= Related
+miTEREBI-anime.txt
