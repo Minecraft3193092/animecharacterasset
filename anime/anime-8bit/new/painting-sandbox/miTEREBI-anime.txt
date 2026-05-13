@@ -911,6 +911,17 @@ https://xn--i0yt6h0rn.tw/channel/Animax/2021/03/
 Animax is have base channel and DLC, recommend download DLC, the base channel without any DLC are have less programs and have bugs, DLC and patch repaired bugs and full schedule, "Animax Fun轉你的世界" Facebook page is show base schedule
 known bugs
  - not show first air multi-lang's program
- - ghost program "網球王子" in 19:00 ~ 20:00 and replay times
- - 鬼影投手 in 11:30 replay, but actually not
+ - ghost program "網球王子" in 19:00 ~ 20:00 and replay times (2026/04 repaired)
+ - 鬼影投手 in 11:30 replay, but actually not (removed)
+ - miTEREBI 05/20 schedule 20:30 not show 琉璃的寶石 is One Piece
  - some program title wrong
+ - some program desc wrong
+ - Animax possible independent 17:30 time away 20:30
+
+
+- Supesharu Message
+"香港Animax
+miTEREBI
+504台5月31日結束亞洲台
+的訊號在香港那邊播送" is fake message
+Animax in miTEREBI is good, not stop air in the platform
