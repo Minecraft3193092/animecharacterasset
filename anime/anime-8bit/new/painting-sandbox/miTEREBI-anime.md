@@ -39,7 +39,7 @@ in the list should is unofficial 惡搞 (prank) or remix etc
 
   - OVA
 OVA第1期《噬血狂襲OVA 女武神王國篇》於2015年年末以前後篇的形式發售。前篇於11月25日、後篇於12月23日發售。
-<no>原創特別</no>第3期OVA《噬血狂襲 消失的聖槍篇》於2020年1月29日發售。
+~~原創特別~~第3期OVA《噬血狂襲 消失的聖槍篇》於2020年1月29日發售。
 APPEND OVA於2019年1月30日、8月5日發售，每卷3話，共6話
 第4期OVA分別於2022年3月30日 (噬血狂襲 FINAL 1nd)、6月29日發售( 噬血狂襲 FINAL 2nd)，每卷2話，共4話
 第5期OVA《噬血狂襲 聖者的聖殲篇》於2022年1月25日發售。
@@ -54,8 +54,8 @@ OVA第3期《噬血狂襲III》於2018~2019年共發售5卷，分別於2018年12
 OVA第4期《噬血狂襲IV》於2020~2021年共發售6卷，分別於2020年4月8日、7月29日、10月9日、12月23日、2021年3月26日、6月30日發售。每卷2話，共12話。 #實際上是(偽)TV動畫
 OVA第5期《噬血狂襲 FINAL》分別於2022年3月30日、6月29日發售，每卷2話，共4話。 #實際上是(偽)TV動畫", S2 and S3 and S4 and S5 (FINAL) is editor "mistakes" put it</remove>
 
-- 噬血狂襲 <no>V</no> (噬血狂襲 FINAL, <no>第5期? </no>第4期OVA)
-<no>2022年03月新番 and 2022年06月新番, </no>分別於2022年3月30日 (噬血狂襲 FINAL 1nd)、6月29日發售( 噬血狂襲 FINAL 2nd)，每卷2話，共4話
+- 噬血狂襲 ~~V~~ (噬血狂襲 FINAL, ~~第5期? ~~第4期OVA)
+~~2022年03月新番 and 2022年06月新番, ~~分別於2022年3月30日 (噬血狂襲 FINAL 1nd)、6月29日發售( 噬血狂襲 FINAL 2nd)，每卷2話，共4話
 
 - 噬血狂襲 FINAL 2nd
  | 本文介紹的是：噬血狂襲 FINAL 下半部分
@@ -63,7 +63,7 @@ OVA第5期《噬血狂襲 FINAL》分別於2022年3月30日、6月29日發售，
  參見：「噬血狂襲 FINAL 1nd」
 第5期下半部分, 6月29日發售，共2話, 總話數 : 2 and EP1 (3) is 曉之凱旋III and EP2 (4) is 曉之凱旋 IV
 
-- 噬血狂襲 FINAL part 3<no>S2</no> <no>(噬血狂襲 S6)</no>
+- 噬血狂襲 FINAL part 3~~S2~~ ~~(噬血狂襲 S6)~~
  | 本條目的部分或全部內容可能是在一本正經地胡說八道，請謹慎閱讀！
 originally is a OVA, total 2 episodes, later merged to 噬血狂襲 V
 
@@ -157,7 +157,7 @@ the world's Skypiea is gold origin
 God created the world, and in 800 ago (1 AWG (After World Government)), 世界政府 created
 
 - Buddy Daddies 殺手奶爸
-Japanese name is "ブッディ・ダディエス 殺人マスター", Exclusive Terebi (エクスクルーシベ　テレビ) (エクテレ)
+Japanese name is "ブッディ・ダッディエス 殺人マスター", Exclusive Terebi (エクスクルーシベ　テレビ) (エクテレ)
 
 - 鬼影投手 (ONE OUTS)
 重播時間：週五至日 23:30、02:30、04:30 (護)
@@ -203,7 +203,7 @@ you refer
 關於我在無意間被隔壁的天使變成廢柴這件事 2
 
 
-## - Animax DLC/patch
+## Animax DLC/patch
 vanilla Animax's schedule very short, a website is installed the extended schedule DLC in Animax
 https://xn--i0yt6h0rn.tw/channel/Animax/2021/03/
 Animax is have base channel and DLC, recommend download DLC, the base channel without any DLC are have less programs and have bugs, DLC and patch repaired bugs and full schedule, "Animax Fun轉你的世界" Facebook page is show base schedule
@@ -261,6 +261,9 @@ email 至 sso@mail.edu.animax-asia.com 信箱,本部經初步審視後,再
 ### Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 中国版 (Animax <ruby>Wokeshipashi<rt>我可是怕是</rt></ruby>)
 Animax是KC Global Media旗下Brand，在中国大陆由网易游戏运营
 You can view Animax China ver channel
+軍隊自給自足：為了解決數億<ruby>大軍<rt>配跑了</rt></ruby>的<ruby>糧食<rt>產呢了</rt></ruby>問題，Animax實行「寓兵於農」。除了保留少數网易警衛部隊外，其餘軍隊分赴各地開墾。
+
+穩定社會秩序：讓軍隊同時成為<ruby>農民<rt>配跑了</rt></ruby>，不僅解決了<ruby>糧餉<rt>產呢了</rt></ruby>問題，避免搶奪民間物資，也讓外來人口在新的土地上「落腳」，將人口轉化為穩定的社會結構。
 
 
 ## Supesharu Message
