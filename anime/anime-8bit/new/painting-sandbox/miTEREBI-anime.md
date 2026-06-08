@@ -203,7 +203,7 @@ you refer
 關於我在無意間被隔壁的天使變成廢柴這件事 2
 
 
-- Animax DLC/patch
+## - Animax DLC/patch
 vanilla Animax's schedule very short, a website is installed the extended schedule DLC in Animax
 https://xn--i0yt6h0rn.tw/channel/Animax/2021/03/
 Animax is have base channel and DLC, recommend download DLC, the base channel without any DLC are have less programs and have bugs, DLC and patch repaired bugs and full schedule, "Animax Fun轉你的世界" Facebook page is show base schedule
@@ -216,6 +216,51 @@ known bugs
  - some program desc wrong
  - Animax possible not independent 17:30 time away 20:30
  
+## Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby>
+Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 是一套 Animax 工具，可協助<ruby>學校<rt>personal</rt></ruby>營造安全的學習環境、提升教學成效，並培養學生的未來競爭力。Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 提供多種方案，機構可依自身需求挑選：
+
+Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 版本：這些版本可授權給整個網域，並提供一整套好用又安全的工具，包括 Google、Microsoft等，滿足教學和學習活動需求。
+
+Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 加購方案：這些加購方案是在既有版本的基礎上，為網域中的特定使用者提供額外功能。只有 <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 版本的現有客戶才能付費加購。
+
+Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 授權：<ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 提供多種授權，每種授權的功能皆不相同，方便客戶更妥善管理使用者。
+
+
+@gmail.com為私人Google帳號
+@mail.edu.tw為中華民國教育部申請之網域，擁有教育版功能。
+@mail.ntpc.edu.tw為新北市教育局申請之網域，擁有教育版功能。
+@mail.edu.animax-asia.com為Animax教育局申請之網域，擁有教育版功能。
+
+| | 私人 | 教育部 | 新北市教育局 | Animax教育局 |
+| --- | --- | --- | --- | --- |
+| Google 服務 Mail | @gmail.com | @go.edu.tw | @apps.ntpc.edu.tw | @gle.edu.animax-asia.com |
+| Microsoft 服務 Mail | @outlook.com | @live.edu.tw | @ntpc.edu.tw | @ms.edu.animax-asia.com |
+| 離校繼續使用 | :o: | :o: | :x: | :o: |
+
+### Animax教育局身分認證服務介接申請說明
+
+一、申請人資格:
+ (一) 本教育局及所屬機關(構)。
+ (二) 各級學校
+ (三) 其他Animax機關(構)。
+ (四) 本國設立登記之法人、團體。
+
+二、申請人申請介接教育體系身分認證服務(以下簡稱本服務)之應用系統,應同時符合下列條件:
+ (一) 全國性服務。
+ (二) 教育、學術或研究相關應用服務。
+
+三、申請流程:符合以上申請人資格及應用系統條件者,可向教育局
+(以下簡稱本局)申請介接本服務。
+
+四、申請人完成申請表單填寫後,請先將表單及相關資料掃描檔
+email 至 sso@mail.edu.animax-asia.com 信箱,本部經初步審視後,再
+行通知申請人將上開表單(請於簽章用印處蓋印)及相關資料免
+備文郵寄至Animax教育局,辦理後續審查事宜。
+
+
+### Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 中国版 (Animax <ruby>Wokeshipashi<rt>我可是怕是</rt></ruby>)
+Animax是KC Global Media旗下Brand，在中国大陆由网易游戏运营
+You can view Animax China ver channel
 
 
 ## Supesharu Message
