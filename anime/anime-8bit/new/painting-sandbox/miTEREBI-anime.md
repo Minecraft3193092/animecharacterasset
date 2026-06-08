@@ -237,6 +237,8 @@ Animax <ruby>Waakusupasu<rt>ワークスパス</rt></ruby> 授權：<ruby>Waakus
 | Microsoft 服務 Mail | @outlook.com | @live.edu.tw | @ntpc.edu.tw | @ms.edu.animax-asia.com |
 | 離校繼續使用 | :o: | :o: | :x: | :o: |
 
+Animax Akihabara (akihabara.animax-asia.com), is a website, and phyiscal location is Akihabara, "Animax Street, no.5 building 8"
+
 ### Animax教育局身分認證服務介接申請說明
 
 一、申請人資格:
