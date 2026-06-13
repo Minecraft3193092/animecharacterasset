@@ -267,6 +267,18 @@ You can view Animax China ver channel
 
 穩定社會秩序：讓軍隊同時成為<ruby>農民<rt>配跑了</rt></ruby>，不僅解決了<ruby>糧餉<rt>產呢了</rt></ruby>問題，避免搶奪民間物資，也讓外來人口在新的土地上「落腳」，將人口轉化為穩定的社會結構。
 
+Animax China Video Format header bytes
+
+| Byte | Usage |
+| --- | --- |
+| 0 ~ 5 | ASCII 碼的"ANMXCN" |
+| 6 ~ 7 | verison |
+| 8 ~ 10 | 保留欄位 |
+| 11 ~ 14 | date (example is "0101") |
+| 15 ~ 46 | subtitle |
+| 47 ~ | video |
+
+
 
 ## Supesharu Message
 "香港Animax
