@@ -1,0 +1,32 @@
+Blockchain NFT IP System (BcNFTIPS), former named "Blockchain IP System" (BcIPS), accounts can buy/sell IP, and account have a IP port
+Account range : IP is 23.23.0.0/16 and 23.24.0.0/16 (65536-2+65536-2=131066), and port is 20000 ~ 65535 (45,535 ports) and total accounts are 5,968,090,310 and Account (BcIPS) ID is IP+port to hexadecimal
+```mermaid
+flowchart LR
+    A[User] <--> B[BcIPS_Trasnlate]
+    B <--> C[BcIPS]
+```
+BcIPS_Translate is have connect public internet and the BcIPS's tunnel
+connect-IPs (connect public internet and the BcIPS) in BcIPS_Translate are 172.23.0.0/16 and 172.23.1.0/16 and port is 20000 ~ 65535, and BcIPS have portal is 172.16.0.1
+```mermaid
+flowchart LR
+    A[User] <--> B[connect-IPs]
+    B <--> C[portal]
+    C <--> D[BcNFTIPS]
+```
+BcNFTIPS_Trasnlate is translate username to IP
+have other IP is to public internet, is portal's 172.16.0.2, example domain is 172.16.0.2/example.com (this tunnel use for crypto trade)
+```mermaid
+flowchart LR
+    A[BcNFTIPS] <--> B[portal]
+    B <--> C[connect-IPs]
+    C <--> D[Public Internet]
+```
+Buy/Rent IP
+The BcNFTIPS used the JSON-RPC
+TokenID is hexadecimal
+example
+| IP | TokenID |
+| --- | --- |
+| 1.1.1.1 | 0x01010101 |
+| 255.255.255.255 | 0xFFFFFFFF |
+| 99.99.99.99 | 0x63636363 |
