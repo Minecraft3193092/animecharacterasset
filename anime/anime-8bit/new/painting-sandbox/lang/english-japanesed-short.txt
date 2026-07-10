@@ -5,3 +5,6 @@ you are: ヨウアレ
 unable to access: ウアアケ
 site owner: サイオナ
 several actions: セベアク
+Macbook: マクブク
+laptop: ラプトプ
+office: オフィセ
