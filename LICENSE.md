@@ -1,2 +1,2 @@
-This work is public domain/public domain-compatible, and everyone can copy, modify, publish, display, etc. this work, and everyone can also use it commercially without restrictions and licenses.
+This work is public domain/public domain-compatible/CC0/Unlicnese, and Unconditional, worldwide, fee-free, irrevocable and non-exclusive and everyone/everybody can copy, modify, publish, display, etc. this work, and everyone can also use it commercially without restrictions and licenses.
 Some works are works of fan arts, possblie re-use of this file may be subject to legal constraints in some jurisdictions.

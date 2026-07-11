@@ -1,0 +1,1 @@
+This originally planned is anime asset, but now have less non-anime asset
