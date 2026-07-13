@@ -8,3 +8,53 @@ several actions: セベアク
 Macbook: マクブク
 laptop: ラプトプ
 office: オフィセ
+service: サービス
+service: セルビセ
+search engine: サアエン
+search: セアルチ
+engine: エンギネ
+trouble: トラブル
+trouble: トロブル
+inter: インテル
+connect: コンネク
+Minecraft: ミネクラ
+Minecraft: マイクラ
+game: ガメ
+line juice: ライジュ
+line juice: リネジュ
+mobile: モビル
+mobile: モビレ
+mobile app: モビアプ
+application: アプリカ
+SQL: スクル
+sequel: スクール
+sequel: セクエル
+block: ブロック
+limit: リミト
+rate: ラテ
+Too Many Requests: トマレク
+Too Many Requests: マニレク
+cascade failure: カスファ
+cascade: カスカド
+cascade: カスカデ
+failure: ファイル
+semantic: スマンテ
+semantic: セマンテ
+elemant: エレマン
+high: ハイー
+high: ヒッグ
+definition: デフィン
+school: スクホル
+class: クラッス
+chicken: チッケン
+promo: プロモ
+Wikipedia: ウィキペ
+MediaWiki: メデウィ
+Google: グーグル
+Google: ゴーグレ
+ok: オケ
+ok: オク
+short: ショート
+short: ショルト
+long: ロング
+outdated: オトダテ

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" id="page_welcome">
+<head>
+<title>border patrol</title>
+</head>
+<mark>
+"<ie>=issue"
+"<lw>=law"
+"<tl>=title"
+"<ds>=desc"
+"<fd>=freedom"
+"<id>=id"
+"<op>=option"
+<issue>
+"tl=title"
+</issue>
+<option>
+"nm=name"
+"id=id"
+"au=authority"
+"sj=social_justice"
+"tx=tax_rate"
+"tr=traditionalism"
+"gg=gdp_growth"
+"pf=population_fear"
+<freedom>
+"fdpe=personal_freedom"
+"fdpo=political_freedom"
+"fdec=economic_freedom"
+</freedom>
+</option>
+</mark>
+<example>
+<ie id="id" tl="Title">
+<ds>
+Desc
+<ds>
+<op id="id" nm="Name" au="1" sj="2" tr="3" fdpe="4" fdpo="5" fdec="6">
+</ie>
+</example>
+<body game="political" ver="0.1">
+<ie id="" tl="Allow private police">
+<ds>
+Desc
+<ds>
+<op id="1" nm="Allow" au="-10" fdpe="10">
+<op id="2" nm="Allow, but govermant review" au="-5" fdpe="5">
+<op id="3" nm="Reject">
+</ie>
+<ie id="" tl="Create new town plan">
+<ds>
+Desc
+<ds>
+<op id="1" nm="Yes" sj="20">
+<op id="2" nm="No">
+</ie>
+</body>

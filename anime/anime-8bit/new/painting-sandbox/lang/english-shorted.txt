@@ -7,3 +7,9 @@ resolve this: resolve
 come up: comup
 came up: camup
 performed triggered: perforiggred
+many requests: manyests
+cascade failure: cascailure
+definition: definit
+mobile app: mobiapp
+application: app
+line juice: linice

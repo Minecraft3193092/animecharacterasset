@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" id="page_welcome">
+<head>
+<title>border patrol</title>
+</head>
+<mark>
+"<ide>=ideology"
+<ideology>
+"nm=name"
+"id=id"
+"ps=political_spectrum"
+"es=economic_spectrum"
+</ideology>
+<ideology-examples>
+"ty=type"
+"st=sub-type"
+"sp=political-authoritarian"
+"se=spectrum-economic"
+"ss=specturm-social"
+<type>
+"nn=none"
+"li=Liberalism"
+"co=Conservatism"
+"so=Socialism"
+"ca=Capitalism"
+"na=Nationalism"
+"fa=Fascism"
+</type>
+<sub-type>
+"de=Democracy"
+"cl=Classical"
+"an-Anarcho"
+</sub-type>
+<spectrum>
+<political>
+"n=none"
+"l=Left"
+"c=Centrist"
+"r=Right"
+</political>
+<economic>
+"n=none"
+"l=Govermant"
+"c=Centrist"
+"r=Free"
+</economic>
+<social>
+"l=Progressivism"
+"c=Centrist"
+"r=Conservatism"
+</social>
+</spectrum>
+</ideology-examples>
+</mark>
+<example>
+<ide id="ex" name="Exampleism" ps="c" es="c" ss="c">
+</example>
+<body game="political" ver="0.1">
+<ide id="li" name="Liberalism" ps="r">
+<ide id="co" name="Conservatism" ss="r">
+<ide id="so" name="Socialism" ss="l">
+<ide id="ca" name="Capitalism" es="r">
+<ide id="na" name="Nationalism" ps="r" ss="l">
+</body>
+</html>
