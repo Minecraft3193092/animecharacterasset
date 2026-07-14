@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+<style>
+/* 1. 設定按鈕的初始外觀 */
+.cool-button {
+  background-color: #3498db;      /* 藍色背景 */
+  transition: all 0.3s ease;       /* 關鍵：設定所有屬性在 0.3 秒內平滑過渡 */
+  box-shadow: 0 0 0px rgba(255,255,255,0); /* 初始無發光 */
+}
+
+/* 2. 定義滑鼠懸停（:hover）時的變形與發光 */
+.cool-button:hover {
+  background-color: #2ecc71;      /* 平滑變為綠色 */
+  transform: scale(1.05);         /* 稍微放大 1.05 倍，增加互動感 */
+  box-shadow: 0 0 15px #2ecc71;   /* 產生綠色霓虹發光效果 */
+}
+</style>
+<a class="cool-button" href="https://www.w3schools.com">This is a link</a>
+
+</body>
+</html>

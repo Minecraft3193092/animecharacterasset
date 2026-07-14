@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Links</h2>
+<p>HTML links are defined with the a tag:</p>
+<script>
+class FlashButton extends HTMLElement {
+  constructor() {
+    super();
+    // 建立一個隔離的 Shadow 空間
+    const shadow = this.attachShadow({ mode: 'open' });
+
+    // 取得 HTML 標籤上設定的屬性（與 .swt 填入資料同理）
+    const text = this.getAttribute('text') || '預設按鈕';
+    const link = this.getAttribute('link') || '#';
+    const hoverColor = this.getAttribute('hover-color') || '#2ecc71';
+
+    // 寫入組件的 HTML 與 CSS 範本
+    shadow.innerHTML = `
+      <style>
+        .flash-btn {
+          display: inline-block;
+          padding: 10px 20px;
+          background-color: #3498db;
+          color: white;
+          text-decoration: none;
+          transition: all 0.3s ease;
+        }
+        .flash-btn:hover {
+          background-color: ${hoverColor};
+          transform: scale(1.05);
+          box-shadow: 0 0 15px ${hoverColor};
+        }
+      </style>
+      <a href="${link}" class="flash-btn">${text}</a>
+    `;
+
+    // 綁定音效事件
+    shadow.querySelector('.flash-btn').addEventListener('mouseenter', () => {
+      new Audio('ding.mp3').play();
+    });
+  }
+}
+
+// 向瀏覽器註冊這個新標籤
+customElements.define('flash-button', FlashButton);
+</script>
+
+<flash-button text="網頁首頁" link="/" hover-color="#9b59b6"></flash-button>
+<flash-button text="最新消息" link="/news" hover-color="#e67e22"></flash-button>
+
+</body>
+</html>
