@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="news" id="page">
+
+<head>
+<title>{{ $pageData['page_content'] }} | wiki</title>
+
+<style>
+.title-s {
+  font-size: 20px;
+}
+
+.wrapper {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    flex: 3;
+    height: 100%;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.content-2 {
+    flex: 3;
+    height: 100%;
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.sidebar {
+    flex: 1;
+    background-color: #e5e5e5;
+    padding: 10px;
+}
+
+.time-text-container {
+  flex: 1;
+  text-align: center; 
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.nav {
+  text-align: center; 
+  padding: 10px;
+}
+
+.weather-left {
+    flex: 3;
+}
+
+.text-center {
+  text-align: center; 
+}
+
+.weather-right {
+    flex: 3;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+</style>
+
+<script>
+function refreshTime() {
+const date = new Date();
+document.getElementById("time-h").innerHTML = date.getHours();
+document.getElementById("time-m").innerHTML = date.getMinutes();
+}
+
+setInterval(refreshTime, 1000);
+</script>
+
+</head>
+
+<body>
+
+<footer>
+<div class="wrapper">
+<aside class="sidebar">
+<div class="wrapper">
+<div class="weather-left">
+<div class="text-center">City</div>
+<div class="text-center">10~20</div>
+</div>
+<div class="weather-right">
+<div>☀️</div>
+</div>
+</div>
+</aside>
+
+<main class="content">
+<article>
+<div class="title-s">
+Example
+</div>
+
+</article>
+</main>
+
+</div>
+
+<div class="wrapper">
+<aside class="time-text-container">
+<div>
+<span id="time-h"></span> : <span id="time-m"></span>
+</div>
+</aside>
+
+<main class="content-2">
+<article>
+<div>
+Example
+</div>
+
+</article>
+</main>
+
+</div>
+</footer>
+</body>

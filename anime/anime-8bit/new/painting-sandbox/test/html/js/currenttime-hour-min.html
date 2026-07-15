@@ -1,0 +1,13 @@
+<div>
+<span id="time-h"></span> : <span id="time-m"></span>
+</div>
+
+<script>
+function refreshTime() {
+const date = new Date();
+document.getElementById("time-h").innerHTML = date.getHours();
+document.getElementById("time-m").innerHTML = date.getMinutes();
+}
+
+setInterval(refreshTime, 1000);
+</script>
