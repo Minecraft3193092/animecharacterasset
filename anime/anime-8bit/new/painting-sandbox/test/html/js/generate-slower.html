@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>慢速回應模擬</title>
+    <style>
+        #response-box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            width: 400px;
+            min-height: 100px;
+            font-family: monospace;
+            background-color: #f9f9f9;
+            white-space: pre-wrap; /* 確保換行能正常顯示 */
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Gemini 慢速打字模擬器</h3>
+    <div id="response-box"></div>
+
+    <script>
+        // 💾 本機 RAM 裡其實名實相符地早就載入了完整字串
+        const fullText = "這是一段故意拖時間的慢速回應。\n雖然系統在 0.001 秒內就已經把這段文字準備好了，\n但前端 UI 為了人類的視覺體驗，刻意控制了注入 DOM 的速度！";
+        
+        const responseBox = document.getElementById('response-box');
+        let index = 0;
+        const speed = 50; // ⏱️ 每 50 毫秒噴出一個字
+
+        function typeWriter() {
+            if (index < fullText.length) {
+                // 🚀 細水長流地注入 HTML DOM
+                responseBox.textContent += fullText.charAt(index);
+                index++;
+                setTimeout(typeWriter, speed);
+            }
+        }
+
+        // 啟動打字防線
+        typeWriter();
+    </script>
+</body>
+</html>

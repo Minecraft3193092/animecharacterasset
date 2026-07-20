@@ -62,6 +62,34 @@
     justify-content: center;
     align-items: center;
 }
+
+.overlay-container {
+  position: relative; /* 核心：讓內部的 absolute 元素以此為對齊基準 */
+  max-width: 100%;
+  overflow: hidden;   /* 避免內部元素超出容器 */
+}
+
+/* 確保底圖填滿容器 */
+.base-image {
+  width: 100%;
+  display: block;     /* 消除圖片下方預設的空白間隙 */
+}
+
+/* 2. 疊加層：像貼紙一樣絕對定位 */
+.overlay-content {
+  position: absolute; /* 核心：脫離正常排版流，浮動在上方 */
+  
+  /* 決定你想貼在畫面的哪個位置（選填） */
+  bottom: 20px;       /* 距離底部 20 像素 */
+  left: 20px;         /* 距離左側 20 像素 */
+  
+  /* 裝飾樣式：讓疊加的內容更清晰 */
+  background: rgba(0, 0, 0, 0.6); /* 半透明黑底，防止文字跟底圖顏色融在一起 */
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  z-index: 2;         /* 確保這層絕對在圖片上方 */
+}
 </style>
 
 <script>
@@ -78,23 +106,28 @@ setInterval(refreshTime, 1000);
 
 <body>
 
+<div class="overlay-container">
+
+<img src="your-image.jpg" alt="底圖" class="base-image">
+
+<div class="overlay-container">
 <footer>
 <div class="wrapper">
 <aside class="sidebar">
 <div class="wrapper">
 <div class="weather-left">
-<div class="text-center">City</div>
-<div class="text-center">10~20</div>
+<div class="text-center weather-name">City</div>
+<div class="text-center weather-temperature">10~20</div>
 </div>
 <div class="weather-right">
-<div>☀️</div>
+<div class="weather-icon">☀️</div>
 </div>
 </div>
 </aside>
 
 <main class="content">
 <article>
-<div class="title-s">
+<div class="title-s news-title">
 Example
 </div>
 
@@ -112,7 +145,7 @@ Example
 
 <main class="content-2">
 <article>
-<div>
+<div class="tab-content">
 Example
 </div>
 
@@ -121,4 +154,8 @@ Example
 
 </div>
 </footer>
+</div>
+
+</div>
+
 </body>

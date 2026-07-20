@@ -1,0 +1,39 @@
+<script>
+// 1. 定義一個非同步函數，去 GitHub.io 目錄下物理性抓取對應的 JSON 檔
+async function loadLanguage(lang) {
+  try {
+    // 這裡的 fetch 是直接向靜態路徑請求檔案，完全不需要後端伺服器運算
+    const response = await fetch(`./lang/${lang}.json`);
+    const translations = await response.json();
+
+    // 2. 遍歷網頁上所有標記 data-i18n 的標籤，並即時替換文字
+    document.querySelectorAll('[data-i18n]').forEach(element => {
+      const key = element.getAttribute('data-i18n');
+      if (translations[key]) {
+        element.textContent = translations[key];
+      }
+    });
+  } catch (error) {
+    console.error("載入語系檔失敗:", error);
+  }
+}
+
+// 3. 監聽下拉選單，當使用者切換語言時「即時（instantly）」載入
+document.getElementById('lang-select').addEventListener('change', (event) => {
+  loadLanguage(event.target.value);
+});
+
+// 預設載入繁體中文
+loadLanguage('zh-tw');
+</script>
+
+
+<h1 data-i18n="welcome_msg">歡迎光臨！這是我的網站</h1>
+<button data-i18n="home_btn">首頁</button>
+<button data-i18n="about_btn">關於我</button>
+
+<select id="lang-select">
+  <option value="zh-tw">繁體中文</option>
+  <option value="en">English</option>
+  <option value="ja">日本語</option>
+</select>

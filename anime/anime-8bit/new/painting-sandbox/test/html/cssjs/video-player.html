@@ -1,0 +1,97 @@
+<style>
+/* 影片外層容器 */
+.video-container {
+  position: relative; /* 讓內部的絕對定位以此為基準 */
+  width: 640px;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+/* 確保影片填滿容器 */
+#my-video {
+  display: block;
+}
+
+/* 自訂控制列：強行疊加在影片內部下方 */
+.custom-controls {
+  position: absolute;
+  bottom: 0;          /* 貼齊底部 */
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.6); /* 半透明背景，確保看得到 */
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  opacity: 0;         /* 預設隱藏，滑鼠移入時才顯示 */
+  transition: opacity 0.3s ease;
+  z-index: 10;        /* 確保在影片上方 */
+}
+
+/* 當滑鼠移入影片區域時，顯示控制列 */
+.video-container:hover .custom-controls {
+  opacity: 1;
+}
+
+/* 簡單的進度條樣式 */
+.progress-bar {
+  flex-grow: 1;
+  height: 8px;
+  background: #555;
+  margin: 0 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+#progress-juice {
+  height: 100%;
+  width: 0%;
+  background: #ff0055;
+}
+
+button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#time-display {
+  color: white;
+  font-size: 14px;
+}
+</style>
+<script>
+const video = document.getElementById('my-video');
+const playBtn = document.getElementById('play-btn');
+const progressJuice = document.getElementById('progress-juice');
+
+// 點擊播放/暫停
+playBtn.addEventListener('click', () => {
+  if (video.paused) {
+    video.play();
+    playBtn.textContent = '⏸';
+  } else {
+    video.pause();
+    playBtn.textContent = '▶';
+  }
+});
+
+// 更新進度條
+video.addEventListener('timeupdate', () => {
+  const percentage = (video.currentTime / video.duration) * 100;
+  progressJuice.style.width = percentage + '%';
+});
+</script>
+
+<div class="video-container">
+  <video id="my-video" src="your-video.mp4" width="100%"></video>
+  
+  <div class="custom-controls">
+    <button id="play-btn">▶</button>
+    <div class="progress-bar">
+      <div id="progress-juice"></div>
+    </div>
+    <span id="time-display">00:00</span>
+  </div>
+</div>

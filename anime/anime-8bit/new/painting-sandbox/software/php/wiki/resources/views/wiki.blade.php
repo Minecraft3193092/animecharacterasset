@@ -48,18 +48,19 @@
   border-radius: 8px;
   background-color: #f2f2f2;
   padding: 20px;
+  margin: 10px;
 }
 
 .nav {
   text-align: center; 
-  padding: 10px;
+  margin: 10px;
 }
 </style>
 
 <body>
 
 <header>
-<div class="text-container">
+<div class="header-text-container">
  Wiki
 </div>
 <nav class="nav">
@@ -82,10 +83,8 @@
 
 </div>
 <footer>
-<div class="border-2">
 <div class="footer-text-container">
  Wiki
-</div>
 </div>
 </footer>
 </body>
