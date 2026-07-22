@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" id="page">
+<html>
 
 <head>
 <title>区块链人民共和国驻中华人民共和国大使馆</title>
@@ -7,6 +7,7 @@
 
 <style>
 .web-bg {
+    color: white;
     background-image: linear-gradient(to bottom, black, purple);
 }
 
@@ -39,10 +40,13 @@
 }
 
 .sidebar {
+    text-align: center;
     border-radius: 8px;
     color: white;
+    border-radius: 8px;
     background-color: rgba(137,137,137,0.5);
     padding: 20px;
+    margin: 10px;
 }
 
 .border-2 {
@@ -54,7 +58,7 @@
   border-radius: 8px;
   color: white;
   background-color: rgba(137,137,137,0.5);
-  padding: 20px;
+    padding: 20px;
 }
 
 .footer-text-container {
@@ -71,7 +75,33 @@
   text-align: center; 
   margin: 10px;
 }
+
+a:link {
+  text-decoration: none;
+  color: purple;
+}
+
+a:visited {
+  text-decoration: none;
+  color: purple;
+}
+
 </style>
+<script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const website_vValue = urlParams.get('template');
+
+async function loadText(file) {
+  const response = await fetch(file);
+  myDisplayer(response);
+}
+
+loadText("/template/" + website_vValue + ".html");
+function myDisplayer(text) {
+  document.getElementById("fetchcontent").innerHTML = text;
+}
+</script>
 
 <body class="web-bg">
 
@@ -88,10 +118,21 @@
 <aside class="flex1">
 <div class="sidebar">
 <div class="line-s">总领馆信息</div>
+<div>总领事</div>
+<div>领区概况</div>
+<div>走进总领馆</div>
+<div>联系我们</div>
+</div>
+<div class="sidebar">
+<div class="line-s">领事服务</div>
+<div>重要通知</div>
+<div>领事证件</div>
+<div>领事保护与协助</div>
+<div>联系我们</div>
 </div>
 </aside>
 <main class="content">
-<article>
+<article class="fetchcontent">
 
 </article>
 </main>
@@ -99,6 +140,14 @@
 <aside class="flex1">
 <div class="sidebar">
 <div class="line-s">通知公告</div>
+<div>驻中华人民共和国大使馆2026年区块链节放假安排通知（2026-01-01）</div>
+<div>驻中华人民共和国大使馆2026年区块链节放假安排通知（2025-01-01）</div>
+<div>驻中华人民共和国大使馆2026年区块链节放假安排通知（2024-01-01）</div>
+</div>
+<div class="sidebar">
+<div class="line-s">相关链接</div>
+<div>外交部</div>
+<div>政府网</div>
 </div>
 </aside>
 
