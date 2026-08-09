@@ -10,6 +10,8 @@ Hello, I is [].
 Good Morning! []-kun
 This item is made by [].
 The place looks like [], and have [] and [].
+Call [] by the phone.
+The TV have Magical Girl!
 
 
 -zh
@@ -21,6 +23,7 @@ The place looks like [], and have [] and [].
 哇，這裡有[]，看起來是[]，有[]！
 你好，我是[]。
 早安! []-君
+這個地方看起來像[]，並且有[]和[]。
 
 
 -ja
@@ -34,4 +37,3 @@ The place looks like [], and have [] and [].
 こんにちは、私は[]です。
 おはようございます！[]くん
 その場所は[]のように見え、[]と[]があります。
-這個地方看起來像[]，並且有[]和[]。
