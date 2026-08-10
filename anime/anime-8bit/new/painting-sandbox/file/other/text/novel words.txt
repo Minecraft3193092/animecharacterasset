@@ -12,6 +12,10 @@ This item is made by [].
 The place looks like [], and have [] and [].
 Call [] by the phone.
 The TV have Magical Girl!
+You view, here have []!
+Please borrow []!
+How you are pay cash or pay credit card?
+Here have a anime called [].
 
 
 -zh
@@ -24,6 +28,12 @@ The TV have Magical Girl!
 你好，我是[]。
 早安! []-君
 這個地方看起來像[]，並且有[]和[]。
+打電話給[]。
+電視裡有魔法少女！
+您好，這裡有[]！
+請借閱[]！
+您是現金支付還是信用卡支付？
+這裡有一部名為[]的動畫。
 
 
 -ja
@@ -37,3 +47,10 @@ The TV have Magical Girl!
 こんにちは、私は[]です。
 おはようございます！[]くん
 その場所は[]のように見え、[]と[]があります。
+Call [] by the phone.
+電話で[]に電話してください。
+テレビで魔法少女が放送されています！
+ご覧のとおり、[]があります！
+[]をお借りください！
+お支払いは現金ですか、それともクレジットカードですか？
+[]というアニメがあります。
