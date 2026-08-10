@@ -21,23 +21,42 @@ The person walk to the [].
 Today is raining, the cloud is rainy.
 [] is crying because lost his all gold.
 The user lost his saved data because error.
-[] said : "Which here is? is Asia, Europe, Amercia, Africa?"
+[] said: "Which here is? is Asia, Europe, Amercia, Africa?"
 In the year 2001, [] was destoryed, the [] is good, the [] is developing cities.
-[] said : "How the game?"
-[] said : "Is called []."
+[] said: "How the game?"
+[] said: "Is called []."
 Today is January, now is sunny, the city looks [] and [].
-The news speaked : "The army is attacked the [], the leader of the country is said..."
-The news speaked : "the zombies are coming the town, the ciy people are defenese the town."
-The platform speaked : "today have new film, called [], is here a person have [], and use the tool to make []."
-The TV's character said : "Which? I is the king of the []! I cannot command they"
-The other character said : "The army are rebeled from you, the [] army are want destory the country."
+The news speaked: "The army is attacked the [], the leader of the country is said..."
+The news speaked: "the zombies are coming the town, the ciy people are defenese the town."
+The platform speaked: "today have new film, called [], is here a person have [], and use the tool to make []."
+The TV's character said: "Which? I is the king of the []! I cannot command they"
+The other character said: "The army are rebeled from you, the [] army are want destory the country."
 The video is 1M viewers now.
 How the anime is 2001, but I remember is 2021, not 2001
-The girls in the TV are said : "We're Magical Girls! Henshin!"
+The girls in the TV are said: "We're Magical Girls! Henshin!"
 The girls are henshing.
 The girls are have five people called [], [], [], [] and [].
-The girl's hair is turn to pink after said : "Change!"
-Other girl's hair show yellow hair accessories after said : "The hair!"
+The girl's hair is turn to pink after said: "Change!"
+Other girl's hair show yellow hair accessories after said: "The hair!"
+A magical girl said in TV: "Today is me! Kiseki no Mahou Tenshi, Let we're come! Kiseki Mahou Houseki!"
+The dub cast is show Cure Miracle instead Kiseki no Mahou Tenshi.
+The [] in the anime [], and in the manga is called [], and different is anime have golden accessories, but manga haven't.
+How the boss [] in the game, [] can shoot the [] Head to player.
+How the witch cannot use magic?
+The witch called []. her cannot use magic anywhere, because she not magic wand.
+How other witch on the []?
+How the world different the Earth?
+The world [] looks different Earth, the sky is green, and the plant is blue
+The Bugs' Empire are attack the Republic Realm of the []. the army of the Empire is attack the Republic Realm armies by firegun
+The [] News speaked: "The Empire armies are use firegun attacks our armies. We're is developing a weapon to against they."
+The Bugs' Empire leader said: "Hahahaha! the Bugs' Empire army are attack the fake Republic Realm, is evil people created"
+The Republic Realm of the [] leader said: "The Republic Realm of the [] is attacked by the evil Empire, the evil army are use firegun!"
+The hero called Magical Hero, is the hero against the evil magic, the Hero said: "I, Magical Hero, is good!"
+The history book writing: "The [] created by [] in year 10. the [] is builds castles to defense the enemies."
+A person said: "The language called []. the language different that English is..."
+A person borned in 00s said: "I viewed the manga and anime with the fairy, the fairy are use magic."
+"* * *"
+"---"
 
 
 -zh
@@ -79,6 +98,25 @@ Other girl's hair show yellow hair accessories after said : "The hair!"
 女孩們有五個人，分別叫[]、[]、[]、[]和[]。
 其中一個女孩說了「變身！」之後，頭髮變成了粉紅色。
 另一個女孩說了「頭髮！」之後，頭髮上出現了黃色的髮飾。
+電視上，一位魔法少女說：「今天輪到我了！奇蹟魔法天使，我們走吧！奇蹟魔法寶石！」
+配音員把《奇蹟魔法天使》改成了《奇蹟治癒》。
+動畫中的[]在[]中，漫畫中叫做[]，不同之處在於動畫中有金色飾品，而漫畫中沒有。
+遊戲中的頭目 []是如何做到的？ []可以射擊玩家的[]頭。
+為什麼女巫不能使用魔法？
+女巫叫做[]。她不能在任何地方使用魔法，因為她沒有魔法棒。
+[]中的其他女巫是怎麼樣的？
+[]世界與地球有何不同？
+[]世界看起來與地球不同，天空是綠色的，植物是藍色的。
+虫族帝國正在攻擊[]共和國。帝國軍隊正用火槍攻擊共和國軍。
+[] 新聞報道：「帝國軍隊正在用火槍攻擊我們的軍隊。我們正在研發一種武器來對抗他們。」
+虫族帝國的首領說：「哈哈哈！虫族帝國的軍隊正在攻擊假共和國，那是邪惡之人建立的。」
+[] 共和國的領導說：「[] 共和國遭到了邪惡帝國的攻擊，邪惡的軍隊正在使用火槍！」
+一位名叫魔法英雄的英雄，是對抗邪惡魔法的英雄，他說：「我，魔法英雄，是正義的！」
+歷史書上寫道：「[] 由 [] 於 10 歲時創建。[] 建造城堡來防禦敵人。」
+有人說：「這種語言叫做 []。這種語言和英語不一樣…」
+一位 00 年代出生的人說：「我看過有仙女的漫畫和動畫，仙女會使用魔法。」
+"* * *"
+"---"
 
 
 -ja
@@ -121,3 +159,22 @@ Call [] by the phone.
 少女たちは[]、[]、[]、[]、[]、[]という5人組です。
 少女の髪は「チェンジ！」と言った後、ピンク色に変わります。
 別の少女の髪は「髪！」と言った後、黄色のヘアアクセサリーが現れます。
+テレビで魔法少女が言った。「今日は私！奇跡の魔法天使、さあ行こう！奇跡の魔法宝石！」
+吹き替え版では「奇跡の魔法天使」ではなく「キュアミラクル」と表示されている。
+アニメでは[]と呼ばれているが、漫画では[]と呼ばれている。また、アニメには金色のアクセサリーがあるが、漫画にはない。
+ゲームのボス[]は、プレイヤーに向かって[]の頭を撃つことができる。
+魔女はなぜ魔法を使えないのか？
+魔女は[]と呼ばれている。彼女は魔法の杖を持っていないので、どこでも魔法を使うことができない。
+[]の他の魔女は？
+[]の世界は地球とどう違うのか？
+[]の世界は地球とは違って見える。空は緑色で、植物は青色だ。
+バグズ帝国が[]の共和国を攻撃している。帝国軍が共和国軍を火器で攻撃している
+[]ニュースはこう報じた。「帝国軍が火器を使って我々の軍を攻撃している。我々は彼らに対抗する兵器を開発中だ。」
+バグズ帝国の指導者は言った。「ハハハハ！バグズ帝国軍が偽の共和国を攻撃している。悪者が作り出したものだ。」
+[]共和国の指導者は言った。「[]共和国は邪悪な帝国に攻撃された。邪悪な軍隊は火器を使っている！」
+魔法の英雄と呼ばれる英雄は、邪悪な魔法と戦う英雄だ。英雄は言った。「私、魔法の英雄は、善人だ！」
+歴史書にはこう書かれている。「[]は10年に[]によって作られた。[]は敵から身を守るために城を築いた。」
+ある人物は言った。「[]という言語。英語とは違う言語だ…」
+2000年代生まれの人物は言った。「妖精が出てくる漫画やアニメを見たことがある。妖精は魔法を使う。」
+"* * *"
+"---"
