@@ -117,6 +117,13 @@ FINAL: 人
 製造: 有夠
 者: 煩
 五葉草: 日
+遲早: 家裡
+是: 蹲
+鍊金術: 吸血
+師: 姬
+最強: 鬱悶
+黑色: 防風
+五葉草: 少年
 
 
 - examples regular chinese to animax chinese
