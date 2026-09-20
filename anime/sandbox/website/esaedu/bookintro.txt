@@ -1,0 +1,54 @@
+<template_desc>
+[BOOK_IMG]
+        書名：[NAM]
+        ISBN：[ISB]
+	    作者：[AUT]
+	    分類號：[CAT]
+	    版本：[VER]
+        出版：[PUB]
+-
+   登錄號   |  流通  |  狀態  |   館藏地   |  來源  
+[B_LIST]
+</template_desc>
+
+<B_VAL>
+columnsize:COL_S
+B_VAL:[RES](COL_S=9)[CIR](COL_S=7)[STA](COL_S=7)[PLA](COL_S=10)[ORI](COL_S=7)
+</B_VAL>
+
+<template_data>
+NAM:
+ISB:
+AUT:
+CAT:
+VER:
+PUB:
+B_IMG:
+</template_data>
+
+<template_code>
+linedisplacement:LINDIS
+columndisplacement:COLDIS
+BOOK_IMG:"(LINDIS=-1)[IMAGE](B_IMG,SZ=4:6,LINDIS=-1,COLDIS=1)"
+B_LIST:"(TYPE=TABLE)[B_VAL](B_RESULT)"
+</template_code>
+
+<template_list_data>
+RES:
+CIR:
+STA:
+PLA:
+ORI:
+</template_list_data>
+
+<example_desc>
+        書名：Test
+        ISBN：123
+	    作者：Example
+	    分類號：000.0
+	    版本：v1
+        出版：Example
+-
+   登錄號   |  流通  |  狀態  |   館藏地   |  來源  
+09950       Normal  Lent    Tokyo World  Example
+</example_desc>

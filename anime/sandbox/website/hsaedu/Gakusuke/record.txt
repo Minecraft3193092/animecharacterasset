@@ -1,0 +1,111 @@
+<template_desc>
+基本資料
+
+學號：[ID]
+
+姓名：[NAME] 性別：[GENDER]
+
+班級: [CLASS]
+座號: [NUMBER]
+導師姓名: [T_NAME]
+擔任學年學期: 令和[YEAR]年
+</desc>
+
+<template_desc_ja>
+基本情報
+
+学生番号：[ID]
+
+姓名：[NAME] 性別：[GENDER]
+
+クラス: [CLASS]
+座席番号: [NUMBER]
+先生の名: [T_NAME]
+として学年度／学期: 令和[YEAR]年
+</desc>
+
+<template_desc_en>
+Basic Data
+
+ID：[ID]
+
+Name：[NAME] Gender：[GENDER]
+
+Class: [CLASS]
+Number: [NUMBER]
+Teacher name: [T_NAME]
+Serve term: [YEAR] of Reiwa
+</desc>
+
+<example_desc>
+基本資料
+
+學號：511327
+
+姓名：桜みく 性別：女
+
+班級: 高一壬
+座號: 28
+導師姓名: 朝凪海
+擔任學年學期: 令和1年
+</example_desc>
+
+<example_desc>
+基本資料
+
+學號：0011701
+
+姓名：白河千歳 性別：女
+
+班級: 應英117
+座號: 1
+導師姓名: とらぶる
+擔任學年學期: 令和1年
+</example_desc>
+
+<template_data>
+ID:
+NAME:
+GENDER:
+CLASS:
+NUMBER:
+T_NAME:
+YEAR:
+</template_data>
+
+<example_data>
+ID:11514
+NAME:椎名真昼
+GENDER:女
+CLASS:1-A
+NUMBER:18
+T_NAME:1-Aの先生
+YEAR:1
+</example_data>
+
+<example_localization>
+<ZH>
+NAME:椎名真昼
+</ZH>
+<JA>
+NAME:椎名真昼
+</JA>
+<EN>
+NAME:Mahiru Shiina
+</EN>
+</example_localization>
+
+<default_localization>
+<ZH>
+M:男
+F:女
+</ZH>
+<JA>
+M:男
+F:女
+</JA>
+<EN>
+M:Male
+F:Female
+</EN>
+</default_localization>
