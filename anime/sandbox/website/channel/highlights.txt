@@ -1,0 +1,70 @@
+<template_desc>
+ Time |   Monday   |  Tuesday   | Wednesday |  Thursday  |   Friday   |  Saturday  |   Sunday   
+       [TIME17_1]                                                      [TIME17_4]
+17:00 |[TIME17_2]                                                      [TIME17_5]
+       [TIME17_3]                                                      [TIME17_6]
+       [TIME18_1]                                                      [TIME18_4]
+18:00 |[TIME18_2]                                                      [TIME18_5]
+       [TIME18_3]                                                      [TIME18_6]
+       [TIME19_1]                                                      [TIME19_4]
+19:00 |[TIME19_2]                                                      [TIME19_5]
+       [TIME19_3]                                                      [TIME19_6]
+       [TIME20_1]                                                      [TIME20_4]
+20:00 |[TIME20_2]                                                      [TIME20_5]
+       [TIME20_3]                                                      [TIME20_6]
+       [TIME21_1]                                                      [TIME21_4]
+21:00 |[TIME21_2]                                                      [TIME21_5]
+       [TIME21_3]                                                      [TIME21_6]
+       [TIME22_1]                                                      [TIME22_4]
+22:00 |[TIME22_2]                                                      [TIME22_5]
+       [TIME22_3]                                                      [TIME22_6]
+       [TIME23_1]                                                      [TIME23_4]
+23:00 |[TIME23_2]                                                      [TIME23_5]
+       [TIME23_3]                                                      [TIME23_6]
+</template_desc>
+
+<template_code
+columnsize:COL_S
+TIME17_1:(COL_S=37)
+TIME17_2:(COL_S=37)
+TIME17_3:(COL_S=37)
+TIME17_4:(COL_S=25)
+TIME17_5:(COL_S=25)
+TIME17_6:(COL_S=25)
+TIME18_1:(COL_S=37)
+TIME18_2:(COL_S=37)
+TIME18_3:(COL_S=37)
+TIME18_4:(COL_S=25)
+TIME18_5:(COL_S=25)
+TIME18_6:(COL_S=25)
+TIME19_1:(COL_S=37)
+TIME19_2:(COL_S=37)
+TIME19_3:(COL_S=37)
+TIME19_4:(COL_S=25)
+TIME19_5:(COL_S=25)
+TIME19_6:(COL_S=25)
+TIME20_1:(COL_S=37)
+TIME20_2:(COL_S=37)
+TIME20_3:(COL_S=37)
+TIME20_4:(COL_S=25)
+TIME20_5:(COL_S=25)
+TIME20_6:(COL_S=25)
+TIME21_1:(COL_S=37)
+TIME21_2:(COL_S=37)
+TIME21_3:(COL_S=37)
+TIME21_4:(COL_S=25)
+TIME21_5:(COL_S=25)
+TIME21_6:(COL_S=25)
+TIME22_1:(COL_S=37)
+TIME22_2:(COL_S=37)
+TIME22_3:(COL_S=37)
+TIME22_4:(COL_S=25)
+TIME22_5:(COL_S=25)
+TIME22_6:(COL_S=25)
+TIME23_1:(COL_S=37)
+TIME23_2:(COL_S=37)
+TIME23_3:(COL_S=37)
+TIME23_4:(COL_S=25)
+TIME23_5:(COL_S=25)
+TIME23_6:(COL_S=25)
+</template_code>

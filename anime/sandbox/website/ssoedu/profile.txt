@@ -1,0 +1,78 @@
+<template_data>
+ID:
+UN:
+NM:
+GDR:
+BD:
+</template_data>
+
+<template_role_school_data>
+RS_ID:
+RS_RL:
+</template_role_school_data>
+
+<template_school_data>
+S_ID:
+S_FN:
+S_AL:
+S_CD:
+S_TY
+</template_school_data>
+
+<example_data>
+ID:Identity
+UN:Username
+NM:Name
+GDR:Gender
+BD:Birthday
+</example_data>
+
+<example_role_school_data>
+S_ID:Identity
+S_RL:Role
+</example_role_school_data>
+
+<template_school_data>
+S_ID:Identity
+S_FN:Fullname
+S_AL:Alias
+S_CD:Createddate
+S_TY:Type
+S_MT:Manage Type
+</template_school_data>
+
+<example_data>
+ID:12345
+UN:Test
+NM:John Smith
+GDR:M
+BD:20000101
+</example_data>
+
+<example_role_school_data>
+S_ID:12345
+S_RL:ST
+</example_role_school_data>
+
+<template_school_data>
+S_ID:12345
+S_FN:Example University
+S_AL:Example University
+S_CD:20200101
+S_TY:HS
+S_MT:PU
+</template_school_data>
+
+<template_code>
+GDR:M:Male
+GDR:F:Female
+S_RL:ST:Student
+S_RL:TE:Teacher
+S_RL:SA:Staff
+S_TY:ES:Elementary School
+S_TY:MS:Middle School
+S_TY:HS:High School
+S_TY:UN:University
+S_MT:PU:Public
+S_MT:PR:Private
+</template_code>

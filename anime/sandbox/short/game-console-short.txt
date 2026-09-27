@@ -1,0 +1,13 @@
+Dreamcast:ドリキャス
+PlayStation:プレスタ
+GameCube:ゲームキュ
+Master System:マスシス
+Xbox:クスビク
+WonderSwan Color:ワンスワ
+Crystal System:クリシス
+PolyGame Master:ポリマス
+Study Box:ストゥボク
+Super Disc:スパディス
+Mobile Trainer:モビトラ
+Game Genie:ゲームゲン
+Action Replay:アクリプ

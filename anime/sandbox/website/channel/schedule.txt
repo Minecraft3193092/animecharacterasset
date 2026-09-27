@@ -1,0 +1,14 @@
+<template_desc>
+[DATE]
+
+[TIME1] | [PROG1]
+[TIME2] | [PROG2]
+[TIME3] | [PROG3]
+[TIME4] | [PROG4]
+[TIME5] | [PROG5]
+[TIME6] | [PROG6]
+[TIME7] | [PROG7]
+[TIME8] | [PROG8]
+[TIME9] | [PROG9]
+[TIME10] | [PROG10]
+</template_desc>

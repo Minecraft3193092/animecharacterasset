@@ -1,0 +1,22 @@
+Short Interactive Novel (SIN) 
+TITLE:1701 no Chiyuu Time - Part 1
+JATITLE:１７０１の地球タイム - パート1
+CONTENT
+[NARRATOR]
+Lum is drive a spaceship by two months to Earth, and enter 武藏國 (Edo)'s Tomobiki Town.
+[PERSON_ATARU]
+Ahhh!
+[LUM]
+I is Lum, I from a other planet.
+[NARRATOR]
+The person try to attack Lum.
+[LUM_DENGEKI]
+Dengeki!
+[PERSON_ATARU]
+Sorry
+[PERSON_ATARU]
+I is Ataru.
+[CHOOSE]
+Who here?(C1_0)
+The planet name?(C2_0)
+Luckily.(C3_0)
