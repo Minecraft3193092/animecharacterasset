@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>賭博</title>
+</head>
+
+<style>
+.web-bg {
+    color: white;
+    background-color: black;
+}
+
+.title-s {
+    border-bottom: 2px solid #a2a9b1;
+}
+
+.line-s {
+    border-bottom: 2px solid red;
+    color: red;
+}
+
+.wrapper {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    border-radius: 8px;
+    flex: 3;
+    height: 100%;
+    color: black;
+    background-color: green;
+    padding: 20px;
+    border: gray solid 5px;
+}
+
+.flex1   {
+    flex: 1;
+}
+
+.sidebar {
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.border-2 {
+    padding: 10px;
+}
+
+.header-text-container {
+  text-align: center; 
+  color: white;
+  background-color: rgba(137,137,137,0.5);
+  font-size: 30px;
+}
+
+.footer-text-container {
+  text-align: center; 
+  color: white;
+  background-color: rgba(137,137,137,0.5);
+  padding: 20px;
+  margin: 10px;
+}
+
+.nav {
+  color: white;
+  text-align: center; 
+  margin: 10px;
+}
+
+.game-start {
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+  background-color: red;
+  border: dashed white 5px;
+  padding: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a:link {
+  text-decoration: none;
+  color: purple;
+}
+
+a:visited {
+  text-decoration: none;
+  color: purple;
+}
+
+</style>
+
+<body class="web-bg">
+
+<header>
+<div class="header-text-container">
+ 賭博 Simulator
+</div>
+<nav class="nav">
+首页
+</nav>
+</header>
+
+<div class="wrapper">
+<aside class="flex1">
+<div class="sidebar">
+<div class="line-s">遊戲</div>
+<div>開始賭博!</div>
+</div>
+</aside>
+<main class="content">
+<article>
+<center><button class="game-start" type="button">開始賭博!</button></center>
+</article>
+</main>
+
+</div>
+<footer>
+<div class="footer-text-container">
+</div>
+</footer>
+</body>

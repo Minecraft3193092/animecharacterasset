@@ -1,0 +1,94 @@
+"Re:Zero"|"Rezero"
+"Make Heroine ga Ōsugiru!"|"HeroŌsu!"
+"Date A Live"|"DateLive" (Dateribe)
+"Charlotte"|"Chalote" (Charote)
+"Chūnibyō demo Koi ga Shitai!"|"ChūShita"
+"No Game No Life"|"NoGaNoLi" (Noganori)
+"Kaguya-sama wa Kokurasetai"|"KaguKoku"
+"Kimi no Na wa"|"KiminoNa"
+"Project Sekai: Colorful Stage! feat. Hatsune Miku"|"ProSeka" (Puroseka)
+"Jujutsu Kaisen"|"JuKai"
+"Plastic Memories"|"PlaMemo" (Puramemo)
+"Suzumiya Haruhi no Yūutsu"|"SuzuHaru"
+"Fate Series"|"Fate"
+"Mahō Shōjo Lyrical Nanoha"|"LyriNano"
+"Girls Band Cry"|"Gibancry" (Gibankuri)
+"Monogatari Series"|"MonoSeri"
+"Tokyo Ghoul"|"ToGhou" (Toguhou)
+"Saiki Kusuo no Ψ Nan"|"SaiKusu"
+"Kimetsu no Yaiba"|"KimeYai"
+"Gimai Seikatsu"|"GimaSei"
+"Tenki no Ko"|"TenkiKo"
+"Kamiina Botan, Yoeru Sugata wa Yuri no Hana"|"KamiBota"
+"NEEDY GIRL OVERDOSE"|"NEEGIO"
+"Aishiteru Game wo Owarasetai"|"AigaO"
+"Hibike! Euphonium"|"HibiEu"
+"Kanojo, Okarishimasu"|"Kanokari"
+"Love Live! Series"|"LoveLive" (RobeRibe)
+"Tensei Shitara Slime Datta Ken"|"TenSli" (TenSuri)
+"Yōkoso Jitsuryoku Shijōshugi no Kyōshitsu e"|"YōJi"
+"Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"|"Cla2ka"(Kuranika)
+"Dr.STONE"|"DrSTO" (Dorusuto)
+"Tongari Bōshi no Atelier"|"TonBō"
+"Kōri no Jōheki"|"KōJō"
+"Kanan-sama wa Akumade Choroi"|"KanaAku"
+"Kuroneko to Majo no Kyōshitsu"|"KuroMajo"
+"Akane-banashi"|"Akabana"
+"Himekishi wa Barbaroi no Yome"|"Himebaro"
+"Otonari no Tenshi-sama"|"OtoTen"
+"Marriagetoxin"|"Maritoku"
+"Ganbare! Nakamura-kun!!"|"GanNaka"
+"Jishō Akuyaku Reijō na Konyakusha no Kansatsu Kiroku."|"JiAku"
+"Mata Korosarete Shimatta no desu ne, Tantei-sama"|"MataKoro"
+"Haibara-kun no Tsuyokute Seishun New Game"|"HaiTsuyo"
+"Replica datte, Koi wo Suru."|"RepKoi" (Repukoi)
+"Ponkotsu Fūkiiin to Skirt-take ga Futekisetsu na JK no Hanashi"|"PonFū"
+"Snowball Earth"|"SnoEa" (Sunoea)
+"Nippon Sangoku"|"Niposan"
+"Hidarikiki no Eren"|"HidaEre"
+"Senren * Banka"|"SenBan"
+"Bocchi the Rock!"|"Bochirock" (Bochirokku)
+"Hataraku Saibō"|"HataSai"
+"BanG Dream!"|"BanGD" (Bangudo)
+"K-ON!"|"Kuon"
+"Summer Pockets"|"SumePocke" (Sumepokke)
+"Tōhō Project"|"Tōhō"
+"Toaru Series"|"Toaru"
+"Kizuna AI, Inc."|"KizuAI"
+"Saenai Heroine no Sodatekata"|"SaeHero"
+"Sōsō no Frieren"|"SonoFri" (Sonofuri)
+"Kobayashi-san Chi no Maid Dragon"|"KobaMaD" (Kobamado)
+"Kaoru Hana wa Rin to Saku"|"KaoHana"
+"Honkai: Star Rail"|"StaRai" (Sutarai)
+"Shūmatsu no Walküre"|"ShūWal" (Shūwaru)
+"Eromanga Sensei"|"EroSen"
+"Ansatsu Kyōshitsu"|"AnKyō"
+"Detective Conan"|"DeteCona" (Detekona)
+"JoJo's Bizarre Adventure"|"JoBiza"
+"ONE PIECE"|"ONEPIE"
+"Crayon Shin-chan"|"CraShin" (Kurashin)
+"Yosuga no Sora"|"YosuSora"
+"Hori-san to Miyamura-kun"|"HoriMiya"
+"Death Note"|"DeaNote"
+"Persona 3"|"Peru3" (Perusan)
+"FAIRY TAIL"|"FAITAI"
+"Ansatsu Kyōshitsu"|"AnsaKyō"
+"Gundam: Tekketsu no Orphans"|"TekeOr" (Tekeoru)
+"Boku Dake ga Inai Machi"|"BokuDake"
+"Ao no Kanata no Four Rhythm"|"FouRhy" (Fouruhi)
+"Musaigen no Phantom World"|"MusaPha" (Musapuha)
+"Akagami no Shirayukihime"|"AkaShira"
+"Utawarerumono"|"Utaware"
+"Hai to Gensō no Grimgar"|"GenGri" (Genguri)
+"Schwarzesmarken"|"Sukuwwar" (Sukuwwaru)
+"Dagashi Kashi"|"DagaKashi"
+"Angel Beats!"|"AngeBea"
+"Little Busters!"|"LittBus" (Littobusu)
+"Rewrite"|"Rewri" (Reuri)
+"Heaven Burns Red"|"HeaBur" (Heaburu)
+"Kami-sama ni Natta Hi"|"KamiNatta"
+"Prima Doll"|"PriDol" (Puridoru)
+"ONE ~Kagayaku Kisetsu e~"|"KagaKise"
+"ANIMAX 十一月 精華節目一覽"|"Ajiise"
+"ANIMAX 十一月 精華節目一覽"|"Jiisese"
+"精華節目"|"Seisetsu"
